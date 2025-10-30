@@ -2,7 +2,7 @@
 
 A carefully curated collection of essential macOS applications for productivity, development, and workflow optimization.
 
-## 📑 Table of Contents
+## Table of Contents
 
 - [The Apps](#the-apps)
   - [Warp – AI-Powered Terminal](#warp--ai-powered-terminal)
