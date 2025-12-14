@@ -11,6 +11,7 @@ A carefully curated collection of essential macOS applications for productivity,
   - [Todoist – Task Management & Productivity](#todoist--task-management--productivity)
   - [Obsidian – Knowledge Base & Note-Taking](#obsidian--knowledge-base--note-taking)
   - [Windsurf – AI-Powered IDE](#windsurf--ai-powered-ide)
+  - [AeroSpace – i3-inspired Tiling Window Manager](#aerospace--i3-inspired-tiling-window-manager)
 - [Installation](#installation)
 - [Why These Apps?](#why-these-apps)
 - [License](#license)
@@ -117,6 +118,20 @@ A full-stack IDE from Codeium built for the age of agentic AI. Windsurf combines
 - Professional plan: unlimited requests for $10/month (50% cheaper than competitors)
 
 **Links:** [windsurf.com](https://windsurf.com) | [codeium.com/windsurf](https://codeium.com/windsurf)
+
+---
+
+### **AeroSpace** – Tiling Window Manager for macOS
+An i3-inspired tiling window manager for macOS built on top of Apple's native APIs. AeroSpace enables efficient window management through automatic tiling and keyboard-driven navigation.
+
+**Features:**
+- i3-like tree-based window tiling
+- Keyboard-driven workflow without mouse dependency
+- Multiple workspaces with seamless switching
+- Plain-text TOML configuration
+- Native macOS integration without Accessibility API
+
+**Links:** [github.com/nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) | `brew install --cask nikitabobko/tap/aerospace`
 
 ---
 
