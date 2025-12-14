@@ -121,7 +121,7 @@ A full-stack IDE from Codeium built for the age of agentic AI. Windsurf combines
 
 ---
 
-### **AeroSpace** – Tiling Window Manager for macOS
+### **AeroSpace** – i3-inspired Tiling Window Manager
 An i3-inspired tiling window manager for macOS built on top of Apple's native APIs. AeroSpace enables efficient window management through automatic tiling and keyboard-driven navigation.
 
 **Features:**
