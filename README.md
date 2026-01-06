@@ -12,6 +12,7 @@ A carefully curated collection of essential macOS applications for productivity,
   - [Obsidian – Knowledge Base & Note-Taking](#obsidian--knowledge-base--note-taking)
   - [Windsurf – AI-Powered IDE](#windsurf--ai-powered-ide)
   - [AeroSpace – i3-inspired Tiling Window Manager](#aerospace--i3-inspired-tiling-window-manager)
+  - [boring.notch – Dynamic Notch Enhancement](#boringnotch--dynamic-notch-enhancement)
 - [Installation](#installation)
 - [Why These Apps?](#why-these-apps)
 - [License](#license)
@@ -135,6 +136,30 @@ An i3-inspired tiling window manager for macOS built on top of Apple's native AP
 
 ---
 
+### **boring.notch** – Dynamic Notch Enhancement
+Transform your MacBook's notch into a dynamic control center with music visualization, calendar integration, file shelf, and macOS HUD replacements. Make the notch the star of your screen.
+
+**Features:**
+- Music control center with vibrant visualizer
+- Real-time playback controls and album artwork display
+- Calendar and reminders integration
+- File shelf with AirDrop support for quick file transfers
+- Complete macOS HUD replacement (volume, brightness, keyboard backlight)
+- Charging indicator with live battery percentage
+- Bluetooth device connection status
+- Mirror mode for quick selfie checks
+- Customizable gesture controls and notch sizing
+- Lock screen widgets integration
+- Extension system for community add-ons
+
+**System Requirements:**
+- macOS 14 Sonoma or later
+- Apple Silicon or Intel Mac
+
+**Links:** [theboring.name](https://theboring.name) | [GitHub](https://github.com/TheBoredTeam/boring.notch) | `brew install --cask TheBoredTeam/boring-notch/boring-notch --no-quarantine`
+
+---
+
 ## Installation
 
 Most apps can be easily installed via Homebrew:
@@ -145,6 +170,12 @@ brew install --cask warp
 
 # Productivity & Workflow
 brew install --cask dropzone
+
+# Notch Enhancement
+brew install --cask TheBoredTeam/boring-notch/boring-notch --no-quarantine
+
+# Window Management
+brew install --cask nikitabobko/tap/aerospace
 
 # Download Windsurf
 # Visit: https://windsurf.com
@@ -164,6 +195,8 @@ This collection covers all essential areas of a modern developer's and power use
 - **Task Management**: Todoist for project planning and team collaboration
 - **Workflow Efficiency**: Dropzone for drag-and-drop automation
 - **Network Intelligence**: TripMode for data-conscious connectivity
+- **Window Management**: AeroSpace for efficient tiling and keyboard navigation
+- **UI Enhancement**: boring.notch for maximizing the notch's potential
 
 ---
 
